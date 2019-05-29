@@ -4,7 +4,7 @@ package basics;
 public class Day {
 	public static void main(String[] args){
 		//to choose day base on switch condition
-		
+		System.out.println("GitHub Testing");
 		String dayofWeek="whatday";
 		
 		switch(dayofWeek){
